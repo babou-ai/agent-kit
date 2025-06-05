@@ -1,4 +1,6 @@
 {
+  "name": "@babou/agent-kit-workspace",
+  "private": true,
   "scripts": {
     "lint": "eslint",
     "test": "pnpm run --if-present --recursive test",
